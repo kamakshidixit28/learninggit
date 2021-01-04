@@ -7,4 +7,5 @@ void main()
   cout<<"sum of the two numbers are "<<a+b;
   cout<<"thank you so much "
   cout<<"Hello world";
+  cout<<"new line added"
 }
