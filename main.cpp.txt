@@ -1,5 +1,6 @@
-include<iostream.h>
-void main()
+include<iostream>
+using namespace std;
+int main()
 {int a,b;
   cout<<"we are going to perform a addition task here";
   cout<<"Enter two numbers that you want me to add";
@@ -8,4 +9,6 @@ void main()
   cout<<"thank you so much "
   cout<<"Hello world";
   cout<<"new line added"
+  cout<<"new code uploaded";
+  return 0;
 }
